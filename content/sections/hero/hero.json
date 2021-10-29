@@ -1,16 +1,16 @@
 {
-  "intro": "Hej",
+  "intro": "Hi!",
   "image": {
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "I'm a Gatsby Starter",
+  "title": "This is my portfolio website.",
   "subtitle": {
-    "prefix": "I do all the setup ",
-    "highlight": "for you",
+    "prefix": "I'm a Full-Stack/Front-End Developer. ",
+    "highlight": "I like building great products",
     "suffix": "."
   },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+  "description": "This website was built in React, with Gatsby. Feel free to explore by using the navigation links at the top, and scrolling down.",
   "socialProfiles": {
     "from": ["LinkedIn", "Medium", "Github", "Mail"],
     "showIcons": false
