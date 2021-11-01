@@ -1,14 +1,13 @@
 ---
-imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
+imageSrc: "../../images/profilepicture.png"
 ---
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
+I am an international student from Mumbai, India. I'm completing my B.S in Computer Science and Business from Northeastern University in Boston, MA. I've always held a keen interest for the intersection of Software and Business, trying to understand and be involved in the technological revolution taking place around us, where software is driving all kinds of change.
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
+To this end, I've worked at HqO, a commercial real estate tenant experience platform as a Full-Stack Engineer, where I got the opportunity to contribute to software that had a consumer touch point with the tenants of commercial buildings across the United States.
 
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
+I'm currently also working at Lexia Learning, where I have the opportunity to contribute to education technology, empowering young learners to read and write better as a JavaScript Engineer, working on client and internal tools for mobile and web platforms.
 
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
+Apart from my career, I have an assorted set of interests, ranging from Formula 1, the NBA, Investing and Podcasting/Blogging!
 
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
+
