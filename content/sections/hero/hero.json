@@ -7,10 +7,10 @@
   "title": "This is my portfolio website.",
   "subtitle": {
     "prefix": "I'm a Full-Stack Developer. I'm proficient in ",
-    "highlight": "React & Node",
+    "highlight": "React.js, styled-components, TailwindCSS, Material UI",
     "suffix": "."
   },
-  "description": "This website was built in React, with Gatsby. Feel free to explore by using the navigation links at the top, and scrolling down.",
+  "description": "This website was built in React, with Gatsby themes. Feel free to explore by using the navigation links at the top, and scrolling down.",
   "socialProfiles": {
     "from": ["LinkedIn", "Medium", "Github", "Mail"],
     "showIcons": true
