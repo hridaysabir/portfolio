@@ -2,13 +2,41 @@
   "projects": [
     {
       "visible": true,
-      "category": "React",
-      "title": "COVID-19 Tracker",
-      "description": "This app was created with create-react-app and uses charts, axios and styled-components. Sources data from public API.",
-      "tags": ["API Integration", "Data Visualization"],
+      "category": "Full-Stack Development",
+      "title": "The Network",
+      "description": "A comprehensive social media platform built with the MERN+G stack (MongoDB, Express, React, Node.js, GraphQL). Features include user authentication, real-time posts, friend connections, and a responsive UI. Demonstrates full-stack development skills with modern technologies including JWT authentication, GraphQL API design, and React with Semantic-UI.",
+      "tags": [
+        "Full-Stack App",
+        "GraphQL",
+        "MongoDB",
+        "JWT Authentication",
+        "React"
+      ],
       "image": {
         "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
-        "alt": "Quick Setup"
+        "alt": "Social Media Platform"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/hridaysabir/TheNetwork"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "Frontend Development",
+      "title": "COVID-19 Tracker",
+      "description": "A real-time COVID-19 data visualization dashboard built with React. Integrates with public APIs to display global statistics, trends, and regional data through interactive charts. Features responsive design, data filtering, and clean UI using styled-components. Demonstrates API integration, data visualization, and modern React development practices.",
+      "tags": [
+        "React",
+        "Data Visualization",
+        "API Integration",
+        "Styled Components"
+      ],
+      "image": {
+        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
+        "alt": "COVID-19 Dashboard"
       },
       "links": [
         {
@@ -18,23 +46,6 @@
         {
           "type": "external",
           "url": "https://github.com/mathdroid/covid-19-api"
-        }
-      ]
-    },
-    {
-      "visible": true,
-      "category": "React",
-      "title": "The Network",
-      "description": "This is a project that simulates a social media app akin to Twitter/Facebook. It was built in the MERN+G stack, using MongoDB as the store, Express/Node as the middleware, React as the frontend and GraphQL to query the API.",
-      "tags": ["Full-Stack App", "User Auth", "GraphQL Integration"],
-      "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
-        "alt": "Quick Setup"
-      },
-      "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/hridaysabir/TheNetwork"
         }
       ]
     }

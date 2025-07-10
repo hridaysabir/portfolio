@@ -8,13 +8,6 @@
       }
     },
     {
-      "label": "React Native",
-      "image": {
-        "src": "../../images/react.png",
-        "alt": ""
-      }
-    },
-    {
       "label": "TypeScript",
       "image": {
         "src": "../../images/typescript.png",
@@ -22,16 +15,16 @@
       }
     },
     {
-      "label": "Redux",
+      "label": "Next.js",
       "image": {
-        "src": "../../images/redux.png",
+        "src": "../../images/react.png",
         "alt": ""
       }
     },
     {
-      "label": "Docker/Kubernetes",
+      "label": "Ruby on Rails",
       "image": {
-        "src": "../../images/docker.jpeg",
+        "src": "../../images/react.png",
         "alt": ""
       }
     },
@@ -43,16 +36,23 @@
       }
     },
     {
-      "label": "Gatsby",
+      "label": "Google Cloud Platform",
       "image": {
-        "src": "../../images/gatsby.png",
+        "src": "../../images/aws.png",
         "alt": ""
       }
     },
     {
-      "label": "AWS",
+      "label": "Docker",
       "image": {
-        "src": "../../images/aws.png",
+        "src": "../../images/docker.jpeg",
+        "alt": ""
+      }
+    },
+    {
+      "label": "React Native",
+      "image": {
+        "src": "../../images/react.png",
         "alt": ""
       }
     }

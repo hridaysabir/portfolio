@@ -1,16 +1,15 @@
 {
-  "intro": "Hi!",
+  "intro": "Hello, I'm Hriday Sabir",
   "image": {
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "This is my portfolio website.",
   "subtitle": {
-    "prefix": "I'm a Full-Stack Developer. I'm proficient in ",
-    "highlight": "React.js, styled-components, TailwindCSS, Material UI",
+    "prefix": "Building scalable web applications with ",
+    "highlight": "React, TypeScript, Next.js, and Ruby on Rails",
     "suffix": "."
   },
-  "description": "This website was built in React, with Gatsby themes. Feel free to explore by using the navigation links at the top, and scrolling down.",
+  "description": "Founding team member at Motive, where I built and maintain a CMS platform serving hundreds of dealerships and hundreds of thousands of customers monthly. Passionate about creating robust, user-centered solutions that scale.",
   "socialProfiles": {
     "from": ["LinkedIn", "Medium", "Github", "Mail"],
     "showIcons": true

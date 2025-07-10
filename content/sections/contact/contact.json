@@ -1,9 +1,10 @@
 {
   "name": "Hriday Sabir",
   "email": "hridaysabir@gmail.com",
+  "description": "I'm always interested in new opportunities and collaborations. Whether you're looking for a Full Stack Engineer to build scalable products or want to discuss innovative projects, I'd love to connect.",
   "image": {
     "src": "../../images/favicon.png",
-    "alt": "Gatsby Logo"
+    "alt": "Contact"
   },
   "socialProfiles": {
     "from": ["LinkedIn", "Medium", "Github", "Mail"],

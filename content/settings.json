@@ -2,12 +2,12 @@
   "siteMetadata": {
     "language": "en",
     "siteUrl": "https://affectionate-shirley-d8d2ad.netlify.app/",
-    "title": "Hriday Sabir Portfolio",
-    "titleTemplate": "%s · Portfolio Minimal",
-    "description": "A portfolio website.",
+    "title": "Hriday Sabir - Full Stack Engineer",
+    "titleTemplate": "%s · Hriday Sabir",
+    "description": "Full Stack Engineer with experience building scalable web applications. Founding team member at Motive, specializing in React, TypeScript, Next.js, and Ruby on Rails.",
     "author": "Hriday Sabir",
     "avatar": "../content/images/gatsby.png",
-    "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
+    "bio": "Full Stack Engineer passionate about building products that make a real impact. Experience with React, TypeScript, Next.js, Ruby on Rails, and cloud technologies.",
     "social": {
       "github": "https://github.com/hridaysabir",
       "linkedin": "https://www.linkedin.com/in/hriday-sabir/",
@@ -20,12 +20,12 @@
       "header": [
         { "label": "About", "url": "/#about" },
         { "label": "Skills", "url": "/#skills" },
-        { "label": "Projects & GitHub", "url": "/#projects" },
+        { "label": "Projects", "url": "/#projects" },
         { "label": "Contact", "url": "/#github" }
       ],
       "ctaButton": {
         "openNewTab": true,
-        "label": "Resume",
+        "label": "Download Resume",
         "url": "/resume.pdf"
       },
       "footer": [
