@@ -1,0 +1,29 @@
+[build]
+  command = "npm run build"
+  publish = "public"
+
+[build.environment]
+  NODE_VERSION = "18"
+  NPM_FLAGS = "--legacy-peer-deps"
+
+[[plugins]]
+  package = "@netlify/plugin-gatsby"
+
+[functions]
+  external_node_modules = ["msgpackr-extract", "msgpackr", "better-sqlite3", "sharp", "gatsby-plugin-gdpr-cookies"]
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
+# Handle SPA routing
+[[redirects]]
+  from = "/imprint"
+  to = "/imprint/"
+  status = 301
+
+[[redirects]]
+  from = "/privacy"
+  to = "/privacy/"
+  status = 301 

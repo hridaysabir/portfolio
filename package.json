@@ -37,5 +37,8 @@
     "animations",
     "dark-mode",
     "gdpr-compliant"
-  ]
+  ],
+  "devDependencies": {
+    "@netlify/plugin-gatsby": "^3.8.4"
+  }
 }
